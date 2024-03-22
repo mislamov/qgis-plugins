@@ -1,0 +1,15 @@
+[general]
+name=GeoJSON Style Plugin
+description=A plugin for applying styles to GeoJSON layers based on the 'styleName' parameter.
+about=то сё
+version=1.0.0
+qgisMinimumVersion=3.0
+author=MaratIslamov
+email=islamov.marat@gmail.com
+experimental=True
+
+icon=icon.png
+tags=web
+homepage=https://github.com/mislamov/rosreestr-search-qgis-plugin
+tracker=https://github.com/mislamov/rosreestr-search-qgis-plugin/issues
+repository=https://github.com/mislamov/rosreestr-search-qgis-plugin

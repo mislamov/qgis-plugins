@@ -1,0 +1,17 @@
+[general]
+name=rosreestr-search-qgis-plugin2
+description=Rosreestr search qgis plugin
+about=Search to Public Cadastral Map of Rosreestr - https://pkk.rosreestr.ru
+      Поиск по Публичной кадастровой карте (ЗУ, ОКС)
+version=1.7.1
+qgisMinimumVersion=3.0
+author=MaratIslamov, matmatamat (matmatamail@gmail.com)
+email=islamov.marat@gmail.com
+
+experimental=True
+
+icon=icon.png
+tags=web
+homepage=https://github.com/mislamov/rosreestr-search-qgis-plugin
+tracker=https://github.com/mislamov/rosreestr-search-qgis-plugin/issues
+repository=https://github.com/mislamov/rosreestr-search-qgis-plugin
