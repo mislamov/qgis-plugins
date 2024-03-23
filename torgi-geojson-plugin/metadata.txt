@@ -10,6 +10,6 @@ experimental=True
 
 icon=icon.png
 tags=web
-homepage=https://github.com/mislamov/rosreestr-search-qgis-plugin
-tracker=https://github.com/mislamov/rosreestr-search-qgis-plugin/issues
-repository=https://github.com/mislamov/rosreestr-search-qgis-plugin
+homepage=https://github.com/mislamov/qgis-plugins.git
+tracker=https://github.com/mislamov/qgis-plugins.git
+repository=https://github.com/mislamov/qgis-plugins.git
